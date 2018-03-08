@@ -30,7 +30,11 @@ Methodology:
 The semi skilled person or the end user will use a simple form to feed all the information with all the conditions that are needed. This form will generate queries as required and fetch the information from the user. All the tables in the database will be properly connected with each other. The connection between frontend and backend is very efficient and retrieval of information and also Machine Learning provides almost correct answer.
 
 
-Screenshots 
+Screenshots
+
+
+
+
 ![capture](https://user-images.githubusercontent.com/13920440/37145066-e9f9df5e-22e5-11e8-935f-ad4a2a0642fa.PNG)
 ![capture2](https://user-images.githubusercontent.com/13920440/37145071-ec8b2b7e-22e5-11e8-821e-3df425a98b1c.PNG)
 ![capture3](https://user-images.githubusercontent.com/13920440/37145076-ef7a21e6-22e5-11e8-9191-586d7d0bafa7.PNG)
