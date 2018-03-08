@@ -31,13 +31,13 @@ The semi skilled person or the end user will use a simple form to feed all the i
 
 
 Screenshots 
-![screenshot_20180308-150749 1](https://user-images.githubusercontent.com/13920440/37144591-8e0d53c0-22e4-11e8-9c1d-82837688146d.png)
-![screenshot_20180308-151756 1](https://user-images.githubusercontent.com/13920440/37144621-9fa4ed8c-22e4-11e8-98c8-ed5d9db55b7d.png)
-![screenshot_20180308-151815 1](https://user-images.githubusercontent.com/13920440/37144646-ac864b36-22e4-11e8-8cd1-e9f461c9b792.png)
-![screenshot_20180308-151843 1](https://user-images.githubusercontent.com/13920440/37144920-7b6e100a-22e5-11e8-8947-f8ad51fa8034.png)
-![screenshot_20180308-151847 1](https://user-images.githubusercontent.com/13920440/37144929-80dfcd62-22e5-11e8-9f28-6a6988724875.png)
-![screenshot_20180308-151847 1](https://user-images.githubusercontent.com/13920440/37144937-86ca47ac-22e5-11e8-9cb5-0ea31060878d.png)
-![screenshot_20180308-151927 1](https://user-images.githubusercontent.com/13920440/37144944-8ba5dd04-22e5-11e8-9877-1699f7f6487e.png)
-![screenshot_20180308-151931 1](https://user-images.githubusercontent.com/13920440/37144950-8f5a1e24-22e5-11e8-8b36-2a44a9bb643f.png)
+![capture](https://user-images.githubusercontent.com/13920440/37145066-e9f9df5e-22e5-11e8-935f-ad4a2a0642fa.PNG)
+![capture2](https://user-images.githubusercontent.com/13920440/37145071-ec8b2b7e-22e5-11e8-821e-3df425a98b1c.PNG)
+![capture3](https://user-images.githubusercontent.com/13920440/37145076-ef7a21e6-22e5-11e8-9191-586d7d0bafa7.PNG)
+![capture4](https://user-images.githubusercontent.com/13920440/37145081-f360be5a-22e5-11e8-9e05-ca922919c688.PNG)
+![capture5](https://user-images.githubusercontent.com/13920440/37145086-f667db56-22e5-11e8-82bd-37f9f36f0aaa.PNG)
+![capture6](https://user-images.githubusercontent.com/13920440/37145091-f9892254-22e5-11e8-950a-28a38feb4fbf.PNG)
+![capture7](https://user-images.githubusercontent.com/13920440/37145093-fc78889c-22e5-11e8-9716-ed8cc8867206.PNG)
+![capture8](https://user-images.githubusercontent.com/13920440/37145096-feff3e8a-22e5-11e8-9799-464860750268.PNG)
 
 
